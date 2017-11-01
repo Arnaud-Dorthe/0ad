@@ -1,23 +1,13 @@
- 0 A.D. Introductory Information
+ 2015 A.D. Introductory Information
 =================================
 
-0 A.D. (pronounced "zero ey-dee") is a free, open-source, cross-platform
-real-time strategy game of ancient warfare.
+2015 A.D. (pronounced "2015 ey-dee") is a free, open-source, cross-platform
+real-time strategy game of the apocalypse.
 
 This is currently an incomplete, under-development version of the game.
-We're always interested in getting more people involved, to help bring the game
+I am always interested in getting more people involved, to help bring the game
 towards completion and to share the interesting experience of developing a
 project of this scope.
-
-There are several ways to contact us and find more information:
-
-  Web site: http://play0ad.com/
-
-  Forums: http://www.wildfiregames.com/forum/
-
-  Trac (development info, bug tracker): http://trac.wildfiregames.com/
-
-  IRC: #0ad on irc.quakenet.org
 
 
 ---------------------------------------
